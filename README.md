@@ -30,6 +30,7 @@ DAA LeetCode Assignment Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikku8753/DAA-Assignment/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/nikku8753/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -71,5 +72,14 @@ DAA LeetCode Assignment Solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikku8753/DAA-Assignment/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nikku8753/DAA-Assignment/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikku8753/DAA-Assignment/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/nikku8753/DAA-Assignment/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
