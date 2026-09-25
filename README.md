@@ -82,4 +82,20 @@ DAA LeetCode Assignment Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikku8753/DAA-Assignment/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
