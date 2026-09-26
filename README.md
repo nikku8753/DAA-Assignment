@@ -85,6 +85,7 @@ DAA LeetCode Assignment Solutions
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikku8753/DAA-Assignment/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -93,9 +94,14 @@ DAA LeetCode Assignment Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikku8753/DAA-Assignment/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/nikku8753/DAA-Assignment/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
