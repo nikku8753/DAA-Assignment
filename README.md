@@ -90,6 +90,7 @@ DAA LeetCode Assignment Solutions
 | [0199-binary-tree-right-side-view](https://github.com/nikku8753/DAA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/nikku8753/DAA-Assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -105,6 +106,7 @@ DAA LeetCode Assignment Solutions
 | [0199-binary-tree-right-side-view](https://github.com/nikku8753/DAA-Assignment/tree/master/0199-binary-tree-right-side-view) |
 | [0437-path-sum-iii](https://github.com/nikku8753/DAA-Assignment/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
@@ -120,4 +122,8 @@ DAA LeetCode Assignment Solutions
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/nikku8753/DAA-Assignment/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
