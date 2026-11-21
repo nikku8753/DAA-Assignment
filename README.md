@@ -6,6 +6,7 @@ DAA LeetCode Assignment Solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nikku8753/DAA-Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nikku8753/DAA-Assignment/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikku8753/DAA-Assignment/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/nikku8753/DAA-Assignment/tree/master/0053-maximum-subarray) |
@@ -31,6 +32,7 @@ DAA LeetCode Assignment Solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nikku8753/DAA-Assignment/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nikku8753/DAA-Assignment/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nikku8753/DAA-Assignment/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
